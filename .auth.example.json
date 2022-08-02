@@ -1,0 +1,8 @@
+{
+    "access_token": "",
+    "expires_in": 3599,
+    "refresh_token": "",
+    "scope": "https://www.googleapis.com/auth/chromewebstore",
+    "token_type": "Bearer"
+  }
+  
