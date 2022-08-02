@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Simple Image Rotator (test)",
+  "name": "Simple Image Rotator",
   "description": "(extremely) basic extension to rotate images in-place",
   "version": "0.0.2",
   "background": {
