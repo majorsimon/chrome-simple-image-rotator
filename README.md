@@ -1,6 +1,8 @@
 Source for [Simple Image Rotator extension on the Chrome WebStore](https://chrome.google.com/webstore/detail/celbdinhikbidipcbkmphghkoibafbik)
 
-Adds a context menu list with options to apply a very simple webkit:transform(x degrees) to DOM elements, preferably images :)
+INCREDIBLY simple Chrome app to (hopefully) rotate images in-place. Simply right-click on an image, and choose desired orientation in the menu. Doesn't always work but is dumb and (just about) functional.
+
+Just applies CSS `-webkit-transform: rotate(Xdeg)` where x is 0, 90, 180, or 270. Does not attempt to resize or re-centre or any other smarts
 
 See the [license](COPYING)
 
