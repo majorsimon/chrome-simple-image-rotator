@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Simple Image Rotator (test)",
+  "description": "(extremely) basic extension to rotate images in-place",
+  "version": "0.0.1",
+  "background": {
+    "scripts": ["main.js"]
+  },
+  "content_scripts": [{
+      "js": ["content.js"],
+      "matches": ["<all_urls>"]
+  }],
+  "permissions": ["contextMenus"]
+}
